@@ -1,0 +1,21 @@
+event.name.default=Event
+event.name.tip=Enter the event's description.
+
+event.type.default=Type
+event.type.tip=Select the event type.
+
+event.place.default=Place
+event.place.tip=Enter the event's place.
+
+event.date.default=Date & time
+event.date.tip=Enter event's date and time. Format: aaaa-mm-dd hh:mm.
+
+event.noEvents=No events in sight...
+
+event.button.newEvent=New event
+
+event.form.updateEvent=Update event
+event.form.createEvent=Create a new event
+
+event.button.saveEvent=Save changes
+event.button.cancel=Cancel
